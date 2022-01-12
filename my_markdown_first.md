@@ -77,6 +77,7 @@ print("Hello,world.")
 ## 7.超链接
 ```python
 [内容](地址)
+[Zuo's Github](https://github.com/zuojiakuo68/zuojiakuo68/new/main#my-first-markdown)
 ```
 [Zuo's Github](https://github.com/zuojiakuo68/zuojiakuo68/new/main#my-first-markdown)
 ## 8.编号&项目符号
