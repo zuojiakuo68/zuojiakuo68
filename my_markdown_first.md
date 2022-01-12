@@ -71,7 +71,7 @@ print("Hello,world.")
 # 可插入在线图片or本地图片
 ![图片名](图片路径)
 ```
-![小熊猫](Notepads\test.jpg)
+![小熊猫](test.jpg)
 
 ![Panda](https://i.ytimg.com/vi/xn23w7YGVaI/sddefault.jpg)
 ## 7.超链接
